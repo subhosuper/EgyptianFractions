@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=egyptian_fraction
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ egyptian_frac()
+comment3.params=fraction\ i
+comment3.target=void\ output(int,\ int)
+comment4.params=fraction
+comment4.target=void\ solve(int)
+comment5.params=
+comment5.target=void\ reduce()
+numComments=6
