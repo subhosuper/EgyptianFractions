@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+Tere bare mein sochu to
+Halke se apne plans bhul jata hu,
+Tu sath rahe to din ban jata hain,
+Awaz tera sunu to apnapn lgta hain,
+Tujhe dekhu to lgta hain kismat wala hu jo har roz ye chehra dekh pata hu...
 
-You can use the [editor on GitHub](https://github.com/subhosuper/EgyptianFractions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hatho mein hath dale waqt ho gaya tha,
+Ye hath bejan ki tarha sakt ho gaya tha,
+Jab tere hatho mein hath dala,
+To laga iss bewaqt ka bhi waqt hogaya tha...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some people believe there is a one, 
+The one who points your way to the sun.
+A person they believe makes them complete
+The one who will support when facing defeat
 
-### Markdown
+'You are my  angel,' my one and only
+My forever love, so we'll never be lonely.
+You've brought to my life all your love and care
+It made me see when I realized how rare
+. .
+It is to meet your angel, or their lifetime one
+Through you and my children, whose life has begun.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What you've done, you've illuminated my soul
+It's you and your love that has made me whole.
+The feel of your love, your soft touch and caress,
+We're tight so close, your heart beats in my chest.
 
-```markdown
-Syntax highlighted code block
+All that we have always felt missing before
+Though I love you today, tomorrow it will be more.
+Our love is life, we are the strongest tree
+Which will always grow forever, like you and me.
 
-# Header 1
-## Header 2
-### Header 3
+You have opened my heart and held it so dear
+You are my angel, and will always keep it near.
+You have seen my ups and cared when I was low.
+'You are my angel,' I just need you to know.
 
-- Bulleted
-- List
+You entered my life through a ray of sun above 
+And when we leave, we will leave together in love
+My love for you has become my reason to be
+I hope one day you'll find your angel in me.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+"Back in school you once asked about "has it ever felt like wind blowing, your hairs flying, backgroud music playing, and you're alone with the one person"",  boy said.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subhosuper/EgyptianFractions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"This is the moment I was talking about, dumbo", girl whispered
