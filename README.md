@@ -16,4 +16,4 @@ enrollment no.: 1058/20101/15630
 Call: 96 50 866615
          99 10 058209..BSC in Business ns Management.. London studies during 2nd year
          
-![Image of Yaktocat](https://drive.google.com/open?id=1VlQi_oMXnI-fWZzxufyUUwr4Z6ho3ius)
+![Image of Yaktocat](https://github.com/subhosuper/EgyptianFractions/blob/master/Block%20representation.png)
